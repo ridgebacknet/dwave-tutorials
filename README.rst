@@ -41,15 +41,13 @@ To use these tutorials you need:
 
 Here is how to get started:
 
-``
+::
 pip install dwave-ocean-sdk
-``
 
 To run a tutorial:
 
-``
+::
 python <tutorial_name>.py
-``
 
 Some very useful documentation is online:
 
