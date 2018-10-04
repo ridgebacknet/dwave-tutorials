@@ -1,5 +1,5 @@
 README for Logic Gates
-===
+======================
 
 Classical logic gates are electronic circuits that implement boolean
 logic. Boolean logic (or boolean algebra) is a mathematical system where
@@ -13,7 +13,7 @@ applications such as factoring numbers and reverse engineering digital
 circuits.
 
 Further Reading
-===
+---------------
 - https://en.wikipedia.org/wiki/Logic_gate
 - https://en.wikipedia.org/wiki/Boolean_algebra
 - https://docs.ocean.dwavesys.com/en/latest/examples/not.html
