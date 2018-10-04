@@ -259,7 +259,7 @@ for col in (1, 2, 3, 4):
 
 '''
 Since we are placing queens, and queens can move diagonally, we need
-some diagonal constraints. This is what one diagonal constraing would
+some diagonal constraints. This is what one diagonal constraint would
 look like if it was placed by hand:
 
   csp.add_constraint(nand, ['x11', 'x22'])
